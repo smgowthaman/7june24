@@ -32,3 +32,7 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+
+
+
+day java code 7june24
