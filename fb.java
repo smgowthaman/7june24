@@ -36,3 +36,4 @@ printPattern(n);
 
 
 day java code 7june24
+day 3 code
